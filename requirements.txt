@@ -1,0 +1,10 @@
+
+gunicorn
+requests
+Flask==2.0.1
+Flask-Dance==5.0.0
+
+
+
+
+
